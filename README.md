@@ -76,5 +76,6 @@ Building a salary prediction engine using machine learning to assist the **HR De
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/salary-prediction-engine.git
+   git clone https://github.com/NandiniDharmarao/Employee-Salary-Prediction-
    cd salary-prediction-engine
+   location http://localhost:8501/
